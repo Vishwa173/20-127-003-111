@@ -26,7 +26,7 @@ Built on three fundamental graph theory theorems with practical algorithmic impl
 
 *Application*: Provides a theoretical lower bound for the minimum number of time slots needed. We compute the maximum degree (Δ) of the conflict graph and use it to validate our coloring results.
 
-### 2. *Hajnal-Szemerédi Theorem (Equitable Coloring)*
+### 2. *Vizing Theorem (Equitable Coloring)*
 *Statement*: Every graph with maximum degree Δ is equitably k-colorable for k ≥ Δ + 1, meaning color classes differ in size by at most 1.
 
 *Application*: Ensures balanced distribution of courses across time slots, preventing overloaded schedules and maintaining fairness for students and faculty.
