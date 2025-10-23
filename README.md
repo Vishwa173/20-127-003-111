@@ -343,12 +343,6 @@ This project is designed for educational purposes. Potential contributions:
 
 ---
 
-## 📄 License
-
-This project is open source and available for educational use.
-
----
-
 ## 👨‍💻 Author
 
 Developed as a graph theory project demonstrating practical applications of classical theorems in combinatorial optimization.
